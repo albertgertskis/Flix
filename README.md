@@ -14,7 +14,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
-### App Walkthough GIF
+### App Walkthough GIFs
 
 iPhone 8          |  iPhone XS Max
 :-------------------------:|:-------------------------:
@@ -22,7 +22,8 @@ iPhone 8          |  iPhone XS Max
 
 
 ### Notes
-Added autolayout features; the app's view is the same on any iPhone type.
+Adding autolayout was difficult and very time-consuming. Autolayout allows the app to be compatible on any view (different iPhone, iPad, etc.)
+As of right now, the details view and grid view screens do not work properly on landscape mode.
 
 ---
 
